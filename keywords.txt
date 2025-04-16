@@ -1,0 +1,35 @@
+#######################################
+# Syntax Coloring Map For ESP32 BLE Keyboard
+#######################################
+# Class
+#######################################
+
+BleMouseboard	KEYWORD1
+
+#######################################
+# Methods and Functions
+#######################################
+
+begin	KEYWORD2
+end	KEYWORD2
+writeKeyboard	KEYWORD2
+pressKeyboard	KEYWORD2
+releaseKeyboard	KEYWORD2
+releaseAllKeyboard	KEYWORD2
+clickMouse	KEYWORD2
+moveMouse	KEYWORD2
+pressMouse	KEYWORD2
+releaseMouse	KEYWORD2
+isPressedMouse	KEYWORD2
+setBatteryLevel	KEYWORD2
+isConnected	KEYWORD2
+
+#######################################
+# Constants
+#######################################
+
+MOUSE_LEFT	LITERAL1
+MOUSE_RIGHT	LITERAL1
+MOUSE_MIDDLE	LITERAL1
+MOUSE_BACK	LITERAL1
+MOUSE_FORWARD	LITERAL1
